@@ -97,13 +97,8 @@ Permissions,🟢 Limitées aux besoins,🔴 Trop larges (ex: Administrator)
 
 📜 **Licence**
 **Ce projet est open-source sous la licence MIT .**
-**Vous pouvez :**
 
-**Utiliser ce code gratuitement**
-**Le modifier**
-**L’installer sur vos serveurs**
 **Vous ne pouvez pas :**
-
 **Le vendre comme produit commercial**
 **Supprimer cette notice ou les crédits**
 **L’utiliser pour nuire à autrui**
