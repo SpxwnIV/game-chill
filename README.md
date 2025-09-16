@@ -7,7 +7,7 @@
 
 ---
 
-## ⚠️ CONDITIONS D’UTILISATION (ToU) — LIRE AVANT D’INVITER LE BOT
+## ⚠️ CONDITIONS D’UTILISATION (ToS) — LIRE AVANT D’INVITER LE BOT
 
 En invitant ce bot sur votre serveur, vous acceptez automatiquement les conditions suivantes :
 
