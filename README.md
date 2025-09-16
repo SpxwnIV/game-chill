@@ -73,3 +73,45 @@ Vous ne devez pas :
 3. **Sur votre serveur, utilisez :**
    ```bash
    /setuplogs #votre-salon-de-logs
+   
+   → Pour activer les logs des actions modératrices.
+
+Profitez !
+Toutes les commandes sont accessibles à tout administrateur ayant les permissions requises.
+ℹ️ Informations techniques
+Langage : JavaScript (Node.js 18+)
+Bibliothèque : Discord.js v14
+Hébergement : Replit, Railway, VPS, etc.
+Stockage local : Fichiers JSON pour les logs et avertissements (aucune base de données externe)
+Certification Discord : ✔️ Prêt pour la validation publique
+Open Source : Ce code est librement utilisable sous licence MIT — mais interdit de le revendre ou de le masquer comme votre œuvre.
+🔒 Pourquoi ce bot est sécurisé ?
+
+Caractéristique,Notre bot,Autres bots dangereux
+eval", "exec,❌ Absentes,✅ Présentes → Risque de takeover
+massdm", "massban,❌ Absentes,✅ Présentes → Spam / Bannissements massifs
+Accès à vos fichiers,❌ Impossible,✅ Possible via fs
+Stockage des logs,📍 Sur votre serveur,🌐 Envoyés à un serveur externe
+Permissions,🟢 Limitées aux besoins,🔴 Trop larges (ex: Administrator)
+
+
+📜 **Licence**
+**Ce projet est open-source sous la licence MIT .**
+**Vous pouvez :**
+
+**Utiliser ce code gratuitement**
+**Le modifier**
+**L’installer sur vos serveurs**
+**Vous ne pouvez pas :**
+
+**Le vendre comme produit commercial**
+**Supprimer cette notice ou les crédits**
+**L’utiliser pour nuire à autrui**
+
+🤝 Besoin d’aide ?
+**Si une commande ne fonctionne pas → Vérifiez que le bot a bien les permissions et que Server Members Intent est activé dans le portail Discord .**
+**Problème d’invite ? Utilisez le lien fourni ci-dessus.**
+**Questions légales ? Contactez-nous via DM sur Discord : Game & Chill#7423**
+
+© 2025 Game & Chill — Bot Discord Public & Certifié
+Développé pour des serveurs responsables. Pas de malice. Pas de pièges. Juste de l’administration saine.
